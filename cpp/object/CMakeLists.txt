@@ -1,0 +1,1 @@
+ADD_LIBRARY(mOBJLIB  object.cpp objOtree.cpp objPointCloud.cpp)
